@@ -1,0 +1,122 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="EclipseCodeFormatterProjectSettings">
+        <option name="projectSpecificProfile">
+          <ProjectSpecificProfile>
+            <option name="eclipseVersion" value="ECLIPSE_44" />
+            <option name="formatter" value="ECLIPSE" />
+            <option name="importOrdering" value="ECLIPSE_44" />
+            <option name="pathToConfigFileJava" value="$USER_HOME$/Documents/Template/Formatter.xml" />
+            <option name="selectedJavaProfile" value="WeSoft Convention" />
+            <option name="useOldEclipseJavaFormatter" value="true" />
+          </ProjectSpecificProfile>
+        </option>
+      </component>
+      <component name="GOROOT" path="/usr/local/Cellar/go/1.11/libexec" />
+      <component name="JsBowerSettings">
+        <node-interpreter value="project" />
+        <bower-package value="/usr/local/lib/node_modules/bower" />
+        <bower.json value="" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="$USER_HOME$/Applications/apache-maven-3.0.4" />
+            <option name="userSettingsFile" value="$USER_HOME$/Applications/apache-maven-3.0.4/conf/settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="importAutomatically" value="true" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="ProjectCodeStyleConfiguration">
+        <code_scheme name="Project" version="173">
+          <DBN-PSQL>
+            <case-options enabled="false">
+              <option name="KEYWORD_CASE" value="lower" />
+              <option name="FUNCTION_CASE" value="lower" />
+              <option name="PARAMETER_CASE" value="lower" />
+              <option name="DATATYPE_CASE" value="lower" />
+              <option name="OBJECT_CASE" value="preserve" />
+            </case-options>
+            <formatting-settings enabled="false" />
+          </DBN-PSQL>
+          <DBN-SQL>
+            <case-options enabled="false">
+              <option name="KEYWORD_CASE" value="lower" />
+              <option name="FUNCTION_CASE" value="lower" />
+              <option name="PARAMETER_CASE" value="lower" />
+              <option name="DATATYPE_CASE" value="lower" />
+              <option name="OBJECT_CASE" value="preserve" />
+            </case-options>
+            <formatting-settings enabled="false">
+              <option name="STATEMENT_SPACING" value="one_line" />
+              <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
+              <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
+            </formatting-settings>
+          </DBN-SQL>
+        </code_scheme>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>Gradle</id>
+              </State>
+              <State>
+                <id>Kotlin</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>Maven</id>
+              </State>
+              <State>
+                <id>OSGi</id>
+              </State>
+              <State>
+                <id>可能的错误Gradle</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+        <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+        <property name="node.js.path.for.package.tslint" value="project" />
+        <property name="node.js.selected.package.tslint" value="" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VgoProject">
+        <integration-enabled>true</integration-enabled>
+      </component>
+    </defaultProject>
+  </component>
+</application>

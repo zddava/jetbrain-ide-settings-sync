@@ -1,0 +1,21 @@
+<application>
+  <component name="LuaApplicationSettings">
+    <option name="INTERPRETERS">
+      <list>
+        <LuaInterpreter>
+          <option name="version" value="5.3.5" />
+          <option name="name" value="lua-5.3.5" />
+          <option name="path" value="/usr/local/bin/lua" />
+        </LuaInterpreter>
+      </list>
+    </option>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/10.11.0/bin/node">
+      <version-cache version="10.11.0" last-modified="1537777200000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.11.0" last-modified="1537777200000" />
+    </local-interpreter>
+  </component>
+</application>
