@@ -30,8 +30,12 @@
           <option name="url" value="http://scm.hzwesoft.com/git/lipsum-bootstrap-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.hzwesoft.com/git/lipsum-bootstrap.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects/lipsum" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects/lipsum3.0" />
   </component>
 </application>
