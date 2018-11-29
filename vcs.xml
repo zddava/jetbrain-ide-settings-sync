@@ -26,8 +26,12 @@
           <option name="url" value="http://scm.hzwesoft.com/git/lilac-pt.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.hzwesoft.com/git/lipsum-bootstrap-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects/Lilac" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects/lipsum" />
   </component>
 </application>
