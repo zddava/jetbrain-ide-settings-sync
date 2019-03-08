@@ -46,8 +46,12 @@
           <option name="url" value="http://scm.hzwesoft.com/git/violet-cloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.hzwesoft.com/git/ala-police.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects/violet" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects" />
   </component>
 </application>
