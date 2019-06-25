@@ -54,8 +54,12 @@
           <option name="url" value="http://scm.hzwesoft.com" />
           <option name="userName" value="zhangdd" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zddava/app-composer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects/violet" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects" />
   </component>
 </application>
