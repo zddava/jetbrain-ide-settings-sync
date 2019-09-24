@@ -66,9 +66,17 @@
           <option name="url" value="http://scm.hzwesoft.com/git/mercury-cloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://47.104.224.31/git/mercury.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://47.104.224.31" />
+          <option name="userName" value="zhangdd" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects/mercury" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects/mercury_back" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
