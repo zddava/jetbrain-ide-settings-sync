@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="conf" type="Ini" />
+      <mapping ext="template" type="JSON" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
@@ -15,7 +16,7 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="conf" type="Ini" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
