@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="template" type="JSON" />
       <mapping pattern="这个是测试用的" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="conf" type="Ini" />
     </extensionMap>
   </component>
