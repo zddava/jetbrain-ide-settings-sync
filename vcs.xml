@@ -98,6 +98,10 @@
           <option name="url" value="http://scm.hzwesoft.com/git/venus-app-maint.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.hzwesoft.com/git/venus-app-mgmt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects" />
