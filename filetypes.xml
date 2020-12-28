@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="template" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -9,6 +9,7 @@
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="conf" type="Ini" />
     </extensionMap>
