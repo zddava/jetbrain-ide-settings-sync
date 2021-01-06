@@ -82,6 +82,22 @@
           <option name="url" value="http://scm.hzwesoft.com/git/mars-scripts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.hzwesoft.com/git/mars-ops.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.hzwesoft.com/git/jupiter-auth.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.hzwesoft.com/git/jupiter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.hzwesoft.com/git/venus-app-maint.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects" />
