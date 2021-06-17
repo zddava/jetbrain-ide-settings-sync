@@ -2,14 +2,14 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="template" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="这个是测试用的" type="PLAIN_TEXT" />
       <mapping pattern="client" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="conf" type="Ini" />
     </extensionMap>
