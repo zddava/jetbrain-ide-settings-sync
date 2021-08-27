@@ -114,6 +114,10 @@
           <option name="url" value="http://scm.hzwesoft.com/git/uranus-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.hzwesoft.com/git/uranus-application.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects" />
