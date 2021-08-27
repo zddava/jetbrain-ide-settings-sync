@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="packets" type="Binary File" />
       <mapping ext="data" type="Binary File" />
       <mapping ext="template" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
