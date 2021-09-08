@@ -12,6 +12,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="conf" type="Ini" />
     </extensionMap>
